@@ -1,0 +1,15 @@
+.point {
+    border-radius: 100px ;
+    background-color: red ;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: -300px;
+    right: -200px;
+  }
+.flag {
+    border: 5px;
+  height: 400px;
+  width: 600px;
+  background-color: grey ;
+}

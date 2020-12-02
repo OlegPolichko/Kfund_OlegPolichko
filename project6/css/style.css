@@ -1,0 +1,39 @@
+.block1 {
+    float: left;
+    height: 200px;
+    width: 1200px;
+background-color: chocolate;
+}
+.block2 {
+   float: left;
+    height: 250px;
+    width: 600px;
+    background-color: red;
+}
+.block3 {
+    float: left;
+        height: 250px;
+        width: 600px;
+         background-color: green;
+           }     
+.block4 { float: left;
+height: 150px;
+    width:  400px;
+                background-color: yellow;
+           }
+.block5 { float: left;
+          height: 150px;
+          width: 400px;
+          background-color: purple;
+               } 
+.block6 { float: left;                    
+        height: 150px;
+        width: 400px;
+        background-color:pink;
+        }
+                      
+div {
+ border: 5px;
+ 
+
+}
